@@ -1,0 +1,39 @@
+.margin{
+    margin-top: 130px;
+}
+.container{
+    width: 1200px;
+    display: table;
+    position: relative;
+    overflow: hidden;
+    text-align:center;
+    margin: 0 auto;
+}
+
+.card {
+    width: 300px;
+    padding: 10px;
+    background-color: rgb(209, 209, 209);
+}
+
+.p{
+    width: auto;
+    float: none;
+    text-align: center;
+}
+
+.bg-grey{
+      background-color: rgb(229, 226, 226);
+}
+
+.color1{
+    background-color: #7EE5DA;
+}
+
+.color2{
+    background-color: #70CCC2;
+}
+
+.color3{
+    background-color: #62B3AA;
+}
