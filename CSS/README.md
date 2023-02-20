@@ -5,4 +5,4 @@ Patika.dev, Front End Development patikasında verilen ödevleri ve kendi yapmı
 
  ödev2: Google'ın ilk versiyonu 
 
- ![Lorem Picsum Gorsel](https://github.com/edadural/patika-frontend/tree/main/CSS/img)
+ ![Lorem Picsum Gorsel](https://github.com/edadural/patika-frontend/tree/main/CSS/img/google.png)
